@@ -1,3 +1,6 @@
 Primeiro commit Ayty
 
 Atualizando o meu primeiro commit!
+
+
+Atualizei de novo, relembando comando do git
