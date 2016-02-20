@@ -4,3 +4,6 @@ Atualizando o meu primeiro commit!
 
 
 Atualizei de novo, relembando comando do git
+
+
+Atualizando novamente para o repositório local!
